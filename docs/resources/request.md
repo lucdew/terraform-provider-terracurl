@@ -16,7 +16,7 @@ A flexible Terraform provider for making API calls
 terraform {
   required_providers {
     terracurl = {
-      source  = "devops-rob/terracurl"
+      source  = "lucdew/terracurl"
       version = "1.0.1"
     }
   }

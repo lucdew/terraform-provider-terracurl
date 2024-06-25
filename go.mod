@@ -1,8 +1,8 @@
-module github.com/devops-rob/terraform-provider-terracurl
+module github.com/lucdew/terraform-provider-terracurl
 
-go 1.21
+go 1.22
 
-toolchain go1.21.4
+toolchain go1.22.4
 
 require (
 	github.com/hashicorp/terraform-plugin-docs v0.18.0

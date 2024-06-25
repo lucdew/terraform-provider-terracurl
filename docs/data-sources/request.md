@@ -16,7 +16,7 @@ Sample data source in the Terraform provider scaffolding.
 terraform {
   required_providers {
     terracurl = {
-      source  = "devops-rob/terracurl"
+      source  = "lucdew/terracurl"
       version = "1.0.1"
     }
   }
